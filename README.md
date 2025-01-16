@@ -1,7 +1,10 @@
 # **Breathing Lamp**
 
 
-![Breathing Lamp](images/axonometry.png)
+
+<div style="text-align: center;">
+    <img src="images/axonometry.png" alt="Breathing Lamp" width="500" />
+</div>
 
 
 ## **Overview**
@@ -18,7 +21,9 @@ The Breathing Lamp is a chandelier designed as part of a university design exerc
 - **Dynamic Movement**: Controlled by a servo motor and Arduino, creating a rhythmic motion.
 - **Modular Construction**: Easy to assemble and modify.
 
-![Breathing Lamp](images/exploded.png)
+<div style="text-align: center;">
+    <img src="images/exploded.png" alt="Breathing Lamp" width="500" />
+</div>
 
 ## **Usage**
 This project demonstrates the integration of motion in design and is a blend of technical functionality and aesthetic exploration.
