@@ -3,6 +3,7 @@
 
 ![Breathing Lamp](images/axonometry.png)
 
+
 ## **Overview**
 The Breathing Lamp is a chandelier designed as part of a university design exercise to replicate the structure and motion of a rib cage during breathing. It uses servo motors and an Arduino to create a dynamic, kinetic effect.
 
